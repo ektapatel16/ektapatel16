@@ -1,8 +1,8 @@
 <h2 align="left">Hi there 👋! My name is Ekta and I'm a Full Stack Engineer with over 4 years of experience.</h2>
-- 🔭 I’m currently working at Prometheus Group as a Full Stack Deeloper.
-- 🌱 I’m currently learning RUST, NEXT.JS.
-- 💬 Ask me about Software/Web development.
-- ⚡ Fun fact: I'm a board game enthusiast and love to play with friends.
+<p>- 🔭 I’m currently working at Prometheus Group as a Full Stack Deeloper.</p>
+<p>- 🌱 I’m currently learning RUST, NEXT.JS.</p>
+<p>- 💬 Ask me about Software/Web development.</p>
+<p>- ⚡ Fun fact: I'm a board game enthusiast and love to play with friends.</p>
 
 ###
 
@@ -68,4 +68,3 @@
 <img src="https://raw.githubusercontent.com/ektapatel16/ektapatel16/output/snake.svg" alt="Snake animation" />
 
 ###
--->
